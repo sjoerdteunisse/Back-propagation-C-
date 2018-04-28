@@ -1,0 +1,7 @@
+C:\Users\sjoer\source\repos\Back-Propagation\Back-Propagation\bin\Debug\Back-Propagation.exe.config
+C:\Users\sjoer\source\repos\Back-Propagation\Back-Propagation\bin\Debug\Back-Propagation.exe
+C:\Users\sjoer\source\repos\Back-Propagation\Back-Propagation\bin\Debug\Back-Propagation.pdb
+C:\Users\sjoer\source\repos\Back-Propagation\Back-Propagation\obj\Debug\Back-Propagation.csprojResolveAssemblyReference.cache
+C:\Users\sjoer\source\repos\Back-Propagation\Back-Propagation\obj\Debug\Back-Propagation.csproj.CoreCompileInputs.cache
+C:\Users\sjoer\source\repos\Back-Propagation\Back-Propagation\obj\Debug\Back-Propagation.exe
+C:\Users\sjoer\source\repos\Back-Propagation\Back-Propagation\obj\Debug\Back-Propagation.pdb
